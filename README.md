@@ -1,1 +1,2 @@
-# Movie_recommendation_with_ALS_SGD
+# Machine-Learning-Project
+Matching consumers with appropriate products based on their preferences is key to E-commerce industry. Recommendation systems are widely used to identify consumers' tastes. In this project, we use the famous MovieLens dataset, and apply one of the major recommendation system technology: Collaborative Filtering Matrix Factorization. We approach the methodology with two implementations: Alternating Least Squares(ALS) as well as Stochastic Gradient Descent(SGD). Also, we add user bias and item bias as an improvement of SGD methodology. Finally, we compare each model's performance, efficiencies and challenges.
